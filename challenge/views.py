@@ -1,8 +1,6 @@
 from django.shortcuts import render, redirect
 from django.contrib.auth.decorators import login_required
 
-from django.core.files.storage import FileSystemStorage
-
 from .forms import ChallengeForm, QuizzForm, AnswerForm
 from .forms import Challenge, Quizz, Hint, Answer
 
