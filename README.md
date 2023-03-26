@@ -41,3 +41,14 @@ To run the app, simply execute following command :
 ```bash
 python manage.py runserver
 ```
+
+### Note
+The version of these packages are for Python 3.10, if you use Python 3.11 or above, maybe these versions will not work.
+
+## Preview!
+
+#### Homepage
+
+
+
+
