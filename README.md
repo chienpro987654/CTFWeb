@@ -49,6 +49,62 @@ The version of these packages are for Python 3.10, if you use Python 3.11 or abo
 
 #### Homepage
 
+![](preview/Home.png)
 
+#### Login
+
+![](preview/Login.png)
+
+#### Homepage after login
+
+![](preview/Home_After_Login.png)
+
+#### Create Challenge
+
+![](preview/Create_Challenge.png)
+
+#### Create Question
+
+![](preview/Create_Question.png)
+
+#### Created Challenge
+
+![](preview/Created_Challenge.png)
+
+#### Join Challenge
+
+![](preview/Join_Challenge.png)
+
+#### List Questions
+
+![](preview/List_Question.png)
+
+#### Play A Quizz
+
+![](preview/Play_A_Quiz.png)
+
+#### Result
+
+![](preview/Result.png)
+
+#### Calendar
+
+![](preview/Calendar.png)
+
+#### Chart
+
+![](preview/Chart.png)
+
+#### News
+
+![](preview/News.png)
+
+#### Community
+
+![](preview/Community.png)
+
+#### Admin Dashboard
+
+![](preview/Admin_Dashboard.png)
 
 
