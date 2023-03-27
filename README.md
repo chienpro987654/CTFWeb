@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
 </p>
 
-### Link demo
+### Link Demo
 
 http://chienpro987654.pythonanywhere.com/
 
