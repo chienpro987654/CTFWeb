@@ -15,6 +15,9 @@
 
 http://chienpro987654.pythonanywhere.com/
 
+
+Account for creating challenge: chien/123
+
 ### Setup Environment
 1. Create a virtual environment :
 ```bash
